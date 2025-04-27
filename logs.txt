@@ -1,0 +1,294 @@
+Telegram\Bot\Objects\Update Object
+(
+    [updateType:protected] => 
+    [items:protected] => Array
+        (
+            [update_id] => 452036529
+            [message] => Array
+                (
+                    [message_id] => 23
+                    [from] => Array
+                        (
+                            [id] => 6198150790
+                            [is_bot] => 
+                            [first_name] => Andrej
+                            [last_name] => Kudlaj
+                            [language_code] => ru
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 6198150790
+                            [first_name] => Andrej
+                            [last_name] => Kudlaj
+                            [type] => private
+                        )
+
+                    [date] => 1685024498
+                    [location] => Array
+                        (
+                            [latitude] => 41.8499
+                            [longitude] => 12.551394
+                        )
+
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+stdClass Object
+(
+    [coord] => stdClass Object
+        (
+            [lon] => 12.5514
+            [lat] => 41.8499
+        )
+
+    [weather] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 211
+                    [main] => Thunderstorm
+                    [description] => гроза
+                    [icon] => 11d
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 501
+                    [main] => Rain
+                    [description] => дождь
+                    [icon] => 10d
+                )
+
+        )
+
+    [base] => stations
+    [main] => stdClass Object
+        (
+            [temp] => 25.83
+            [feels_like] => 25.93
+            [temp_min] => 22.92
+            [temp_max] => 28.22
+            [pressure] => 1013
+            [humidity] => 56
+        )
+
+    [visibility] => 10000
+    [wind] => stdClass Object
+        (
+            [speed] => 4.63
+            [deg] => 260
+        )
+
+    [rain] => stdClass Object
+        (
+            [1h] => 2.73
+        )
+
+    [clouds] => stdClass Object
+        (
+            [all] => 40
+        )
+
+    [dt] => 1685024498
+    [sys] => stdClass Object
+        (
+            [type] => 2
+            [id] => 2000926
+            [country] => IT
+            [sunrise] => 1684986108
+            [sunset] => 1685039514
+        )
+
+    [timezone] => 7200
+    [id] => 3178677
+    [name] => Чинечитта
+    [cod] => 200
+)
+Telegram\Bot\Objects\Update Object
+(
+    [updateType:protected] => 
+    [items:protected] => Array
+        (
+            [update_id] => 452036530
+            [message] => Array
+                (
+                    [message_id] => 25
+                    [from] => Array
+                        (
+                            [id] => 6198150790
+                            [is_bot] => 
+                            [first_name] => Andrej
+                            [last_name] => Kudlaj
+                            [language_code] => ru
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 6198150790
+                            [first_name] => Andrej
+                            [last_name] => Kudlaj
+                            [type] => private
+                        )
+
+                    [date] => 1685094680
+                    [text] => Paris
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+stdClass Object
+(
+    [coord] => stdClass Object
+        (
+            [lon] => 2.3488
+            [lat] => 48.8534
+        )
+
+    [weather] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => ясно
+                    [icon] => 01d
+                )
+
+        )
+
+    [base] => stations
+    [main] => stdClass Object
+        (
+            [temp] => 18.18
+            [feels_like] => 17.67
+            [temp_min] => 16.73
+            [temp_max] => 20.04
+            [pressure] => 1026
+            [humidity] => 62
+        )
+
+    [visibility] => 10000
+    [wind] => stdClass Object
+        (
+            [speed] => 5.14
+            [deg] => 20
+        )
+
+    [clouds] => stdClass Object
+        (
+            [all] => 0
+        )
+
+    [dt] => 1685094564
+    [sys] => stdClass Object
+        (
+            [type] => 2
+            [id] => 2041230
+            [country] => FR
+            [sunrise] => 1685073423
+            [sunset] => 1685129910
+        )
+
+    [timezone] => 7200
+    [id] => 2988507
+    [name] => Париж
+    [cod] => 200
+)
+Telegram\Bot\Objects\Update Object
+(
+    [updateType:protected] => 
+    [items:protected] => Array
+        (
+            [update_id] => 452036531
+            [message] => Array
+                (
+                    [message_id] => 27
+                    [from] => Array
+                        (
+                            [id] => 6198150790
+                            [is_bot] => 
+                            [first_name] => Andrej
+                            [last_name] => Kudlaj
+                            [language_code] => ru
+                        )
+
+                    [chat] => Array
+                        (
+                            [id] => 6198150790
+                            [first_name] => Andrej
+                            [last_name] => Kudlaj
+                            [type] => private
+                        )
+
+                    [date] => 1685094704
+                    [text] => paris
+                )
+
+        )
+
+    [escapeWhenCastingToString:protected] => 
+)
+stdClass Object
+(
+    [coord] => stdClass Object
+        (
+            [lon] => 2.3488
+            [lat] => 48.8534
+        )
+
+    [weather] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 800
+                    [main] => Clear
+                    [description] => ясно
+                    [icon] => 01d
+                )
+
+        )
+
+    [base] => stations
+    [main] => stdClass Object
+        (
+            [temp] => 18.18
+            [feels_like] => 17.67
+            [temp_min] => 16.73
+            [temp_max] => 20.04
+            [pressure] => 1026
+            [humidity] => 62
+        )
+
+    [visibility] => 10000
+    [wind] => stdClass Object
+        (
+            [speed] => 5.14
+            [deg] => 20
+        )
+
+    [clouds] => stdClass Object
+        (
+            [all] => 0
+        )
+
+    [dt] => 1685094564
+    [sys] => stdClass Object
+        (
+            [type] => 2
+            [id] => 2041230
+            [country] => FR
+            [sunrise] => 1685073423
+            [sunset] => 1685129910
+        )
+
+    [timezone] => 7200
+    [id] => 2988507
+    [name] => Париж
+    [cod] => 200
+)
